@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - 大家好
+                    Laravel - 大家好fdsa
                 </div>
 
                 <div class="links">
